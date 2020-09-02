@@ -1,3 +1,14 @@
-# Hello everyone
-I wish to state boldly that i wish to be **a master web developer** in 6 months.
-*so help me*  **God**
+# 19628A {    
+  LOGOstyle                                                              Home   Contact us   Services    About us           
+
+** Hello World**                                                         ![alt text](world-wide-web.PNG]
+
+This is the beginning of my dev journey.
+
+Lorem ipsum dolor sit amet, consectetur adipisscing
+
+elit, sed do eiusmod tempor incididunt ut labore et
+
+dolore magna aliqua.}
+
+      > Submit    
