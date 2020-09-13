@@ -35,7 +35,7 @@ h3 {
 	font-size: 16px;
 	}
 img {
-	margin-left: 380px; margin-top: 8px;
+	margin-left: 380px
 	}
 .p1  {
 	margin-left: 250px;
@@ -61,5 +61,5 @@ td {
 	padding: 8px;
 	}
 form input {
-	color: #cccccc; padding: 8px; margin:8px;
+	color: #cccccc; padding: 8px; margin:8px; border-radius: none;
 	}
