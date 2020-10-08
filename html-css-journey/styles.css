@@ -13,7 +13,7 @@
 .container { 
 			width: 85%;
 			margin: auto;
-            }
+           }
 		   
 div.logo-nav {
 	          padding-top: 20px;
@@ -29,10 +29,10 @@ span.logo-box {
 			  } 
 
 span.white { 
-			 color:#fff;
-			 letter-spacing: 0em;
-			 font-size: 27px
-			}
+			color:#fff;
+			letter-spacing: 0em;
+			font-size: 27px
+		   }
 			   
 div.nav-link {
 	          display: inline-block;
