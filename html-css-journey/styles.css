@@ -162,11 +162,11 @@ section.two {
 	width: 45%; 
 	margin-left: 70px;
 	padding-left: 30px; 
-	vertical-align: top;  
-    } 
+	vertical-align: top; 
+	} 
 		  
 table {
-	font-size: 28px; 
+	font-size: 25px; 
 	text-align: center; 
 	margin-top: 9px; 
 	}
@@ -181,7 +181,7 @@ th {
    }
 
 td { 
-    padding: 12px; color:#555555; 
+    padding: 10px; color:#555555; 
    }
 
 .item { 
@@ -193,10 +193,15 @@ td {
 	}
 
 label {
-	margin-left: 10px;
 	font-size: 27px;
 	font-weight: bold; 
-	} 
+	}
+
+label.one {
+	font-size: 27px;
+	font-weight: bold;
+	margin-left: 10px;
+}
 
 .Form { 
 	display: inline-block;
@@ -205,10 +210,10 @@ label {
 
 form input {
 	color:#cccccc; 
-	padding: 12px; 
-	margin:12px; 
+	padding: 10px; 
+	margin: 10px; 
 	border-radius: none;
-	font-size: 25px;
+	font-size: 22px;
 	}
 			
 * { box-sizing: border-box; }
@@ -224,7 +229,7 @@ button.orange2 {
 	margin: 5px 12px; 
 	background-color: #fd862f; 
 	cursor: pointer;
-	width: 63.5%;
+	width: 55.5%;
     }
 			
 .services { 
