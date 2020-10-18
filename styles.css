@@ -2,23 +2,23 @@
 	font-family: roboto;
 	margin: 0;
 	padding:0; 
-	}
+}
 
 .header {
 	background-color:#19628A;
 	color:#cccccc;
 	padding-bottom: 40px;
-    }
+}
 	
 .container { 
 	width: 85%;
 	margin: auto;
-    }
+}
 		   
 .logo-nav {
 	padding-top: 20px;
 	width: 100%; 
-	}
+}
 
 .logo-box { 
 	display: inline-block;
@@ -26,30 +26,30 @@
 	width: 15%;
 	letter-spacing: 0.1em;
 	font-size: 30px;
-	} 
+}	 
 
 span.white { 
 	color:#fff;
 	letter-spacing: 0em;
 	font-size: 27px
-	}
+}
 			   
 .nav-item {
 	display: inline-block;
 	width: 84%;
 	text-align: right;
-	}
+}
 	
 nav {
 	font-size: 22px;
-	}
+}
 		
 nav a {
    color:#cccccc;
    display: inline-block;
    text-decoration: none;
    padding: 20px;
-  }
+}
    
 .big-heading { 
 	display: inline-block;
@@ -57,33 +57,33 @@ nav a {
 	overflow: none;
 	vertical-align: top;
 	margin-top: -35px;
-	}
+}
 			 
 h2 { 
     color:#fff;
 	font-size: 45px; 
-   }
+}
 
 .fifty { 
 	display: inline-block;
 	overflow: none;
 	width: 45%;
 	vertical-align: top;
-	} 
+} 
 
 p.one { 
 	width: 400px;
 	line-height: 1.5em;
 	font-size: 24px;
 	margin-top: -35px; 
-	}
+}
 	 
 .www-image { 
 	display: inline-block;
 	overflow: none;
 	width: 45%;
 	text-align: right;
-	}
+}
 
 button.orange1 { 
 	border: none;
@@ -98,7 +98,7 @@ button.orange1 {
 	background-color:#fd862f; 
 	cursor: pointer; 
 	margin-top: -13px; 
-	}
+}
 	
 section.one { 
 	background-color:#f5f5f5; 
@@ -107,7 +107,7 @@ section.one {
 	padding-top: 35px; 
 	padding-bottom: 75px;
 	padding-left: 50px;
-	}
+}
 
 .strength { 
 	display: inline-block;
@@ -115,7 +115,7 @@ section.one {
 	width: 32%; 
 	padding-top: 25px;  
 	margin-left: -50px; 
-	} 
+} 
 
 .patience {
 	display: inline-block; 
@@ -123,7 +123,7 @@ section.one {
 	width: 32%; 
 	padding-top: 25px;
 	margin-left: 40px; 
-	}
+}
  
 .courage { 
 	display: inline-block; 
@@ -131,7 +131,7 @@ section.one {
 	width: 32%; 
 	padding-top: 25px;
 	margin-left: 40px;   
-	}
+}
 
 p.two { 
 	width: 100%; 
@@ -140,36 +140,36 @@ p.two {
 	font-size: 26px;
 	line-height: 1.8em;
 	margin: auto; 
-	}
+}
 
 h3 {
 	font-size: 33px; 
 	margin-bottom: 15px; 
 	margin-top: -1px;
 	text-align: center; 
-   }
+}
 
 section.two {
 	background-color:#fff; 
 	vertical-align: top; 
 	padding-top: 40px;		  
 	padding-bottom: 65px;
-	}
+}
 			 
 .Table {
 	display: inline-block;
 	overflow: none; 
-	width: 45%; 
-	margin-left: 70px;
-	padding-left: 30px; 
-	vertical-align: top; 
-	} 
+	width: 65%; 
+	margin-left: 110px;
+	padding-left: 260px; 
+	vertical-align: top;
+} 
 		  
 table {
-	font-size: 25px; 
+	font-size: 23px; 
 	text-align: center; 
 	margin-top: 9px; 
-	}
+}
 
 table, th, td { 
 	border: 1px solid #dddddd;
@@ -177,25 +177,25 @@ table, th, td {
 	}
 			  
 th {
-	padding: 8px;
-   }
+	padding: 10px;
+}
 
 td { 
     padding: 10px; color:#555555; 
-   }
+}
 
 .item { 
-    width: 220px;
-	}
+    width: 200px;
+}
  
 .price {
-    width: 250px;
-	}
+    width: 220px;
+}
 
 label {
 	font-size: 27px;
 	font-weight: bold; 
-	}
+}
 
 label.one {
 	font-size: 27px;
@@ -205,32 +205,33 @@ label.one {
 
 .Form { 
 	display: inline-block;
-	width: 45%; 
-	}	 
+	width: 25%; 
+} 
 
 form input {
 	color:#cccccc; 
-	padding: 10px; 
+	padding: 9px; 
 	margin: 10px; 
 	border-radius: none;
-	font-size: 22px;
-	}
-			
+	font-size: 18px;
+	width: 100%;
+}
+		
 * { box-sizing: border-box; }
 
 button.orange2 {
 	border: none; 
 	color:white; 
-	padding: 10px 132px; 
+	padding: 10px; 
 	text-align: center; 
 	text-decoration: none; 
 	display: inline-block; 
 	font-size: 21px;
-	margin: 5px 12px; 
+	margin: 8px 12px; 
 	background-color: #fd862f; 
 	cursor: pointer;
-	width: 55.5%;
-    }
+	width: 100%;
+}
 			
 .services { 
 	display: inline-block;
@@ -239,11 +240,11 @@ button.orange2 {
 	margin-top: -25px;
 	text-align: center;
 	vertical-align: top;
-	}
+}
 
 .big-heading1 */ ourservices */ {   
 		text-align: center;
-		}
+}
 	
 p.first { 
 	width: 870px;
@@ -251,7 +252,7 @@ p.first {
 	font-size: 30px;
 	margin-top: -30px;
 	margin-left: 120px; 
-    }
+}
 				
 section.first {
 	background-color: #fff;
@@ -259,17 +260,17 @@ section.first {
 	vertical-align: top;
 	padding-bottom: 55px;
 	padding-top: 35px;
-	}          
+}          
 				
 h3.black { 
 	font-size: 45px;
 	color: black; 
-	}
+}
 		 
 div.image-paragraph { 
 	width: 100%;
 	overflow: none; 
-	} 
+} 
 
 .clothes-image {  
 	width: 20%;
@@ -277,7 +278,7 @@ div.image-paragraph {
 	text-align: right;
 	margin-top: -55px;
 	overflow: none;
-	}
+}
 				
 .second-p {
 	display: inline-block;
@@ -285,14 +286,14 @@ div.image-paragraph {
 	width: 75%;
 	padding-left: 218px;
 	vertical-align: top;
-	}	 
+}	 
 		 
 p.second {
 	width: 780px;
 	line-height: 1.5em;
 	font-size: 30px;
 	margin-top: -10px;
-    }
+}
 				
 section.second {
 	background-color: #f5f5f5;
@@ -300,18 +301,18 @@ section.second {
 	vertical-align: top; 
 	padding-bottom: 45px;
 	padding-top: 35px;
-	}
+}
 			   
 h3.left { 
 	font-size: 45px;
 	color: black; 
 	text-align: left;
-    }
+}
 
 .big-heading2 */secondheader*/ {	
 	width: 100%;
 	overflow: none;
-	}
+}
 		   
 .smarthome-image {
 	display: inline-block;
@@ -319,21 +320,21 @@ h3.left {
 	text-align: right;
 	margin-left: 100px;
 	margin-top: -35px;
-	}
+}
 
 .third-p {
 	display: inline-block;
 	width: 55%;
 	vertical-align: top;
 	overflow: none;
-	}   
+}   
 
 p.third {
 	width: 730px;
   	line-height: 1.5em;
 	font-size: 30px;
 	margin-top: -10px;
-	}
+}
 			
 section.third {
 		 background-color:#fff;
@@ -341,7 +342,7 @@ section.third {
 		 vertical-align: top;
 		 padding-top: 40px;
 		 padding-bottom: 55px;
-	   }
+}		 
 
 .people-image {
 	display: inline-block; 
@@ -349,7 +350,7 @@ section.third {
 	overflow: none;
 	margin-top: -25px;
 	text-align: left;
-    }
+}
 
 .fourth-p {
 	width: 60%;
