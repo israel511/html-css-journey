@@ -199,12 +199,12 @@ label.one {
 	margin-left: 5px;
 }
 
-.form-withbutton {
-	display: inline-block; 
+.form-container {
+	display: inline-block;
 	width: 50%;
 }
 
-.form { 
+.form-icons { 
 	display: inline-block;
 	width: 55%; 
 }	 
@@ -221,7 +221,7 @@ form input {
 		
 * { box-sizing: border-box; }
 
-button.orange2 {
+.orange2 {
 	border: none; 
 	color:white; 
 	padding: 10px; 
