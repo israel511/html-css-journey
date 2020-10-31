@@ -230,7 +230,11 @@ input {
 	font-size: 18px;
 	width: 97%;
 }	
-		
+
+input:hover {
+	color: aquamarine;
+}
+
 * { box-sizing: border-box; }
 
 .orange {
