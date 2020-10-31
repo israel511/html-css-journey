@@ -38,7 +38,8 @@ span.white {
 	display: inline-block;
 	width: 84%;
 	text-align: right;
-}
+	margin-bottom: 40px;
+}	
 	
 nav {
 	font-size: 22px;
@@ -50,12 +51,28 @@ nav a {
    text-decoration: none;
    padding: 20px;
 }
-   
+
+a:link {
+	color: #cccccc;
+	text-decoration: none;
+}
+
+a:visited {
+	color: aqua;
+	text-decoration: none;
+}
+
+a:hover {
+	color: aquamarine;
+	text-decoration: none;
+}
+    
 .big-heading { 
 	display: inline-block;
 	width: 50%;
 	overflow: none;
 	vertical-align: top;
+	margin-bottom: 15px;
 }
 			 
 h2 { 
@@ -157,7 +174,7 @@ section.two {
 			 
 .table {
 	display: inline-block;
-	width: 45%;
+	width: 35%;
 	vertical-align: top;
 } 
 		  
@@ -201,7 +218,7 @@ label.one {
 
 .form-container {
 	display: inline-block;
-	width: 50%;
+	width: 64%;
 }
 
 .form-icons { 
@@ -209,7 +226,7 @@ label.one {
 	width: 55%; 
 }	 
 
-form input {
+input {
 	color:#cccccc; 
 	padding: 12px; 
 	margin: 7px; 
@@ -221,7 +238,7 @@ form input {
 		
 * { box-sizing: border-box; }
 
-.orange2 {
+.orange {
 	border: none; 
 	color:white; 
 	padding: 10px; 
