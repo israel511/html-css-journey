@@ -1,7 +1,7 @@
  body {
 	font-family: roboto;
 	margin: 0;
-	padding:0; 
+	padding: 0; 
 }
 
 .header {
@@ -250,17 +250,22 @@ input:hover {
 	cursor: pointer;
 	width: 97%;
 }
-			
+
+.nav-item1 {
+	display: inline-block;
+	width: 84%;
+	text-align: right;	
+}
+						
 .services { 
 	display: inline-block;
 	overflow: none;
 	width: 100%;
-	margin-top: -25px;
-	text-align: center;
+	margin: 0;
 	vertical-align: top;
-}
-
-.big-heading1 */ ourservices */ {   
+}	
+						
+.big-heading1  {   
 		text-align: center;
 }
 	
@@ -268,8 +273,9 @@ p.first {
 	width: 870px;
 	line-height: 1.5em;
 	font-size: 30px;
-	margin-top: -30px;
-	margin-left: 120px; 
+	margin: 0;
+	margin-left: 120px;
+	text-align: center;
 }
 				
 section.first {
@@ -286,14 +292,15 @@ h3.black {
 }
 		 
 div.image-paragraph { 
+	display: inline-block;
 	width: 100%;
-	overflow: none; 
+    overflow: none; 
 } 
 
 .clothes-image {  
-	width: 20%;
 	display: inline-block;
-	text-align: right;
+	width: 39%;
+	text-align: left;
 	margin-top: -55px;
 	overflow: none;
 }
@@ -301,8 +308,7 @@ div.image-paragraph {
 .second-p {
 	display: inline-block;
 	overflow: none;
-	width: 75%;
-	padding-left: 218px;
+	width: 39%;
 	vertical-align: top;
 }	 
 		 
@@ -310,7 +316,7 @@ p.second {
 	width: 780px;
 	line-height: 1.5em;
 	font-size: 30px;
-	margin-top: -10px;
+	margin: 0;
 }
 				
 section.second {
@@ -327,22 +333,21 @@ h3.left {
 	text-align: left;
 }
 
-.big-heading2 */secondheader*/ {	
+.big-heading2 {	
 	width: 100%;
 	overflow: none;
 }
 		   
 .smarthome-image {
 	display: inline-block;
- 	width: 35%;
-	text-align: right;
-	margin-left: 100px;
-	margin-top: -35px;
+	width: 20%;
+	margin-top: -20px;
+	text-align: right;	
 }
 
 .third-p {
 	display: inline-block;
-	width: 55%;
+	width: 77%;
 	vertical-align: top;
 	overflow: none;
 }   
@@ -351,7 +356,7 @@ p.third {
 	width: 730px;
   	line-height: 1.5em;
 	font-size: 30px;
-	margin-top: -10px;
+	margin: 0;
 }
 			
 section.third {
@@ -364,16 +369,15 @@ section.third {
 
 .people-image {
 	display: inline-block; 
-	width: 30%;
+	width: 38.5%;
 	overflow: none;
-	margin-top: -25px;
+	margin-top: -20px;
 	text-align: left;
 }
 
 .fourth-p {
-	width: 60%;
+	width: 59.5%;
 	display: inline-block;
-	margin-left: 100px;
 	vertical-align: top;
 	overflow: none;
 }	
@@ -382,8 +386,8 @@ p.fourth {
  	width: 730px;
 	line-height: 1.5em;
 	font-size: 30px;
-	margin-top: -10px;
-	}          
+	margin: 0;
+}          
 					  
 				
 footer {
@@ -394,6 +398,6 @@ footer {
 	text-align: center; 
 	color:white; 
 	font-size: 16px;
-	}
+}
 
 
