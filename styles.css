@@ -237,7 +237,7 @@ input:hover {
 
 * { box-sizing: border-box; }
 
-.orange {
+input[type="submit"] {
 	border: none; 
 	color:white; 
 	padding: 10px; 
@@ -251,14 +251,14 @@ input:hover {
 	width: 97%;
 }
 
-.nav-item1 {
+.nav-items {
 	display: inline-block;
 	width: 84%;
 	text-align: right;
 	margin-bottom: 20px;	
 }
 						
-.lead { 
+.top-set { 
 	display: inline-block;
 	overflow: none;
 	width: 100%;
@@ -266,7 +266,7 @@ input:hover {
 	vertical-align: top;
 }	
 						
-.big-heading1  {   
+.top-heading  {   
 		display: block;
 		width: 88%;
 		margin-bottom: 10px;
