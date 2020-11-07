@@ -412,7 +412,7 @@ section.fourth {
 	padding-top: 45px;
 }          
 
-#contact input  {
+#contact input {
 	color:#cccccc; 
 	padding: 12px; 
 	margin: 4px; 
@@ -422,23 +422,23 @@ section.fourth {
 	width: 97%;
 }
 
-textarea {
+#contact input[id="message"] {
 	margin: 4px;
 	padding: 12px;
+	padding-bottom: 80px;
 	font-size: 18px;
 	color: inherit;
-	margin-bottom: -5px;
+	margin-bottom: 5px;
 	border-radius: 0;
 	border: 1px solid #ccc;
-	width: 97%;
 }
 
 .message-image {
 	display: inline-block;
+	vertical-align: top;
 	margin: 0;
 	width: 33%;
 	text-align: right;
-	overflow: none;
 }
 				
 footer {
