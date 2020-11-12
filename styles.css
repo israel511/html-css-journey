@@ -121,7 +121,7 @@ section.one {
 .strength { 
 	display: inline-block;
 	overflow: none; 
-	width: 32%; 
+	max-width: 32%; 
 	padding-top: 25px;  
 	margin-left: -50px; 
 } 
@@ -129,7 +129,7 @@ section.one {
 .patience {
 	display: inline-block; 
 	overflow: none; 
-	width: 32%; 
+	max-width: 32%; 
 	padding-top: 25px;
 	margin-left: 40px; 
 }
@@ -137,7 +137,7 @@ section.one {
 .courage { 
 	display: inline-block; 
 	overflow: none; 
-	width: 32%; 
+	max-width: 32%; 
 	padding-top: 25px;
 	margin-left: 40px;   
 }
