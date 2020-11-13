@@ -369,6 +369,7 @@ p.fourth {
 	display: inline-block;
 	overflow: none;
 	width: 100%;
+	text-align: center;
 	margin: 0;
 	vertical-align: top;
 }
