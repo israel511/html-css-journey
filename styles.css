@@ -251,25 +251,23 @@ input[type="submit"] {
 }
 						
 .top-set { 
-	display: inline-block;
-	overflow: none;
+	display: flex;
+	flex-direction: column;
 	width: 100%;
-	text-align: center;
-	margin: 0;
-	vertical-align: top;
+	justify-content: center;
+	align-items: center;
 }	
 						
-.top-heading  {   
-		display: block;
-		width: 100%;
-		margin-bottom: 10px;
+.top-heading  {
+	margin-bottom: 12px;
 }
 
 p.first { 
 	width: 770px;
 	line-height: 1.8em;
-	font-size: 25px;	
-    margin: 0 20% ;
+	text-align: center;
+	font-size: 25px;
+	margin: 0;	
 }
 				
 section.first {
@@ -279,13 +277,15 @@ section.first {
 	padding: 35px 0 55px 0;
 }          
 
-div.image-paragraph { 
-	display: inline-block;
+.image-paragraph{
+	display: flex;
 	width: 100%;
-} 
+	flex-direction: row;
+	align-items: center;
+	flex-wrap: wrap;
+}
 
 .set-one {
-	display: inline-block;
 	width: 69%;
 }
 				
@@ -293,11 +293,9 @@ h3.black {
 	font-size: 45px;
 	color: black;
 	text-align: left;
-	 
 }
 
 .clothes-image {  
-	display: inline-block;
 	width: 30%;
 	text-align: left;
 }
@@ -316,8 +314,7 @@ section.second {
 }
 
 .set-two {
-	display: inline-block;	
-    width: 69%;
+	width: 69%;
 	vertical-align: top;
 	margin: auto;
 }
@@ -329,7 +326,6 @@ h3.left {
 }
 
 .smarthome-image {
-	display: inline-block;
 	width: 30%;
 	text-align: right;
 	margin-top: 50px;	
@@ -342,19 +338,17 @@ p.third {
 }
 			
 section.third {
-		 background-color:#fff;
-		 color: #555555; 
-		 vertical-align: top;
-		 padding: 40px 0 55px 0;
+	background-color:#fff;
+	color: #555555; 
+	vertical-align: top;
+	padding: 40px 0 55px 0;
 }		 
 
 .set-three {
-	display: inline-block;
 	width: 69%;
 }
 
 .people-image {
-	display: inline-block; 
 	width: 30%;
 	text-align: left;
 }
@@ -363,15 +357,6 @@ p.fourth {
 	line-height: 1.8em;
 	font-size: 25px;
 	margin: 0;
-}	
-
-.contact-us { 
-	display: inline-block;
-	overflow: none;
-	width: 100%;
-	text-align: center;
-	margin: 0;
-	vertical-align: top;
 }
 
 section.fourth {
