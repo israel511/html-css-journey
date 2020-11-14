@@ -264,7 +264,7 @@ input[type="submit"] {
 
 p.first { 
 	width: 770px;
-	line-height: 1.8em;
+	line-height: 2.1em;
 	text-align: center;
 	font-size: 25px;
 	margin: 0;	
@@ -301,7 +301,7 @@ h3.black {
 }
 				
 p.second {
-	line-height: 1.8em;
+	line-height: 2.1em;
 	font-size: 25px;
 	margin: 0;
 }
@@ -332,7 +332,7 @@ h3.left {
 }
 
 p.third {
-  	line-height: 1.8em;
+  	line-height: 2.1em;
 	font-size: 25px;
 	margin: 0;
 }
@@ -354,7 +354,7 @@ section.third {
 }
 
 p.fourth {
-	line-height: 1.8em;
+	line-height: 2.1em;
 	font-size: 25px;
 	margin: 0;
 }
