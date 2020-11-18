@@ -1,7 +1,19 @@
- body {
+html, body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
 	font-family: roboto;
 	margin: 0;
 	padding: 0; 
+}
+
+.big-container{
+	flex: 1 0 auto;
+	min-height: 100vh;
+	margin-bottom: -70px;
 }
 
 .header {
@@ -363,7 +375,7 @@ section.fourth {
 	background-color: #fff;
 	color:#555555;
 	vertical-align: top;
-	padding: 45px 0 95px 0;
+	padding: 45px 0 135px 0;
 }          
 
 .lab {
@@ -397,6 +409,21 @@ label.two {
 	border: 1px solid #ccc;
 }
 
+#contact input[type="submit"] {
+	border: none; 
+	color:white; 
+	padding: 12px; 
+	text-align: center; 
+	text-decoration: none; 
+	display: inline-block; 
+	font-size: 18px;
+	margin: 4px 4px; 
+	background-color: #fd862f; 
+	cursor: pointer;
+	width: 97%;
+}
+
+
 .message-image {
 	display: inline-block;
 	width: 33%;
@@ -405,7 +432,14 @@ label.two {
 				
 footer {
 	background-color:#333333;
-	width: 100%; 
+	flex-direction: row;
+	flex-shrink: 0;
+	position: relative;
+	bottom: 0;
+	left: 0;
+	height: 70px;
+	min-height: 70px;
+	width: 100%;	 
 	padding: 25px; 
 	vertical-align: top; 
 	text-align: center; 
