@@ -403,9 +403,9 @@ label.two {
 #contact input[id="message"] {
 	margin: 4px 0 5px 4px;
 	padding: 12px 12px 80px 12px;
-	font-size: 18px;
+	font-size: inherit;
 	color: inherit;
-	border-radius: 0;
+	border-radius: inherit;
 	border: 1px solid #ccc;
 }
 
