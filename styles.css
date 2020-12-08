@@ -6,7 +6,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	font-size: 100%;
-	font-family: "roboto";
+	font-family: 'Roboto', sans-serif;
 	margin: 0;
 	padding: 0; 
 }
@@ -44,7 +44,7 @@ body {
 span.white { 
 	color:#fff;
 	letter-spacing: 0em;
-	font-size: 1.6875em
+	font-size: 1.2em;
 }
 			   
 .nav-item {
@@ -386,7 +386,7 @@ section.fourth {
 }
 
 label.two {
-	font-size: 1.875em;
+	font-size: 1.625em;
 	font-weight: bold;
 	margin-left: 4px;
 }	
